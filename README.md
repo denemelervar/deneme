@@ -3,4 +3,4 @@
 ''kalın '' <br/>
 'italik'<br/>
 [Google linki](https://google.com)<br/>
-![resim](https://yandex.com.tr/gorsel/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fwww.desura.com%2Ffiles%2Fimages%2Fd6%2Fd6a932e593badb69594ba9125c953278_70.png&text=kung+fu+panda&rpt=simage)
+![resim](https://getwallpapers.com/wallpaper/full/7/b/d/845250-kung-fu-panda-3-wallpapers-1920x1200-for-meizu.jpg)
