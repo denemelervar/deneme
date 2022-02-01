@@ -1,1 +1,3 @@
 dosya
+dosyam/*
+!dosyam/dosya1.c
