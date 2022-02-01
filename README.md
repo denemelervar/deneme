@@ -1,5 +1,5 @@
 # deneme
-##Bu bir başlangıç denemesi<br/>
+## Bu bir başlangıç denemesi<br/>
 ''kalın '' <br/>
 'italik'<br/>
 [Google linki](https://google.com)<br/>
